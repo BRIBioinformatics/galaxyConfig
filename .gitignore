@@ -1,0 +1,5 @@
+# Ignore everything in the directory - add back only files specific to our instance
+*
+
+# Don't ignore the .gitignore
+!.gitignore
