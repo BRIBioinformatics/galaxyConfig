@@ -3,3 +3,6 @@
 
 # Don't ignore the .gitignore
 !.gitignore
+
+# Don't ignore universe file
+!universe_wsgi.ini
